@@ -572,9 +572,9 @@ async function handleMenu(jid, name) {
   const now    = nowID();
   await sendText(jid,
     `╔═══════════════════════════╗\n` +
-    `║   🔥  WRECK BOT  v1.0  🔥  ║\n` +
+    `║     WRECK BOT  v1.0    ║\n` +
     `╚═══════════════════════════╝\n` +
-    `👤 *Owner :* ${ownerName}\n` +
+    `👤 *Owner :* ${ZEXR03}\n` +
     `⏱️ *Uptime:* ${uptime}\n` +
     `📨 *Pesan :* ${stats.msg} masuk\n` +
     `🕐 *Waktu :* ${now}\n` +
