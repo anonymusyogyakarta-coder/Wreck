@@ -46,7 +46,7 @@ const TERMUX_ENV  = {
 };
 let sock = null;
 let stats = { msg: 0, cmd: 0, startTime: Date.now() };
-const ownerName = 'Anonymous Yogyakarta Coder';
+const ownerName = 'ZEXR03';
 
 // ══════════════════════════════════════
 // HELPERS
